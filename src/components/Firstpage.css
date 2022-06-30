@@ -1,0 +1,95 @@
+*{ 
+    margin: 0px;
+}.container {
+    background-color: rgb(188, 188, 188);
+    width:48%;
+    margin: 0 auto;
+    text-align: center;
+    height: auto;
+    border-radius: 10px;
+    box-shadow: 5px  10px 5px 8px;
+    border: 1px solid black;
+   position: relative;
+   top: 40px; 
+}
+.button {
+        font-size: 18px;
+        background-color: #059862 !important;
+        padding-left: 19px;
+        padding-right: 19px;
+        border: 1px solid #cccccc;
+        border-radius: 5px;          margin-left:  10px;
+          margin-top: 20px;
+        margin-bottom: 35px;
+        width: 120px;
+      }
+
+      .buttonfinal {
+        font-size: 18px;
+        background-color: #059862 !important;
+        padding-left: 19px;
+        padding-right: 19px;
+        border: 1px solid #cccccc;
+        border-radius: 5px;  
+          margin-top: 20px;
+        margin-bottom: 35px;
+        margin-left:  10px;
+        /* width: 120px; */
+      }
+
+    
+
+.inp {
+    width: 200px;
+    height: 30px;
+    border-radius: 5px;
+    background-color: rgb(226, 225, 225);
+}
+.red {
+    color: red;
+}
+.SUB{
+    margin: 20px  auto;
+    width: 100%;
+}
+.mtop{
+    margin-top: 10px;
+}
+
+.down{
+    margin-top: 50px;
+}
+.downcc{
+    margin-top: 30px;
+}.hobb{
+    margin: 0 auto;
+    width: 40%;
+}
+.document{
+    margin-top: 30px;
+}
+
+.middle{
+    margin: 0 auto;
+    width: 28%;
+    margin-top: 10px;
+}
+
+.middleprofile
+{
+margin-left: 200px;
+}
+
+
+.dflex{
+    display: flex;
+}
+
+
+
+
+
+.one{
+    position: relative;
+    top: 70px; 
+}
